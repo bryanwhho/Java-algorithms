@@ -1,4 +1,4 @@
-# LSE-algorithms
+# Java-algorithms
 Sample Java code I wrote for personal tutorials, MA407 Algorithms and Computation, MA421 Advanced Algorithms.
 
 - For personal tutorial codes, see "Java21" folder.
